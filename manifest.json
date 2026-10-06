@@ -1,0 +1,16 @@
+{
+  "id": "file-drag-upload",
+  "name": "文件拖拽上传",
+  "version": "1.0.0",
+  "tier": "js",
+  "sdkVersion": "^0.3",
+  "description": "拖拽文件到聊天窗口，支持预览、删除和重新排序",
+  "author": "王世振",
+  "permissions": [
+    "events",
+    "storage",
+    "composer:draft",
+    "ui:panel-tab"
+  ],
+  "repo": "wszbest68-gif/ccgui-plugin-file-drag-upload"
+}
